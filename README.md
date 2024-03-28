@@ -4,7 +4,7 @@ Medical texts contain complex and diverse terminology and expressions, and tradi
 Model selection:
 The model chosen must have the coverage and applicability of medical knowledge, the Mistral-7B-Instruct-v0.1 model was chosen for its breadth of knowledge as well as its adaptive and flexible nature.
 reference：
-https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
+https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1 
 https://www.kaggle.com/models/mistral-ai/mistral
 
 Prompt design process:
