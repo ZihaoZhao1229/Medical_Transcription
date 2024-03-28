@@ -15,5 +15,5 @@ Problems encountered during design:1. The output of the model contains useless i
 In the end, two versions of Prompt were formed:
 Version 1 Too many demands on the model result in the model not being able to fulfill all the requirements and some instructions will be ignored Less effective.
 Version 2 Simplified dialog to fulfill the main requirements Better results.
-Showing the top ten rows of results:
+Showing the top ten rows of results(extract information in the last two columns):
 [result.csv](https://github.com/ZihaoZhao1229/Medical_Transcription/files/14796436/result.csv)
