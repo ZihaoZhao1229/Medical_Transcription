@@ -1,7 +1,7 @@
 Thinking Process:
 Medical texts contain complex and diverse terminology and expressions, and traditional machine learning models may require a lot of task-specific tuning and feature selection to achieve the same results. The comprehension generation, large-scale data processing, and generalization capabilities of LLM are more advantageous for medical texts.
 
-Model selection
+Model selection:
 The model chosen must have the coverage and applicability of medical knowledge, the Mistral-7B-Instruct-v0.1 model was chosen for its breadth of knowledge as well as its adaptive and flexible nature.
 reference：
 https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
