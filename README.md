@@ -9,8 +9,7 @@ https://www.kaggle.com/models/mistral-ai/mistral
 
 Prompt design process:
 According to the data, it can be seen that the age information is distributed in different columns, so the recognition is to input the description and translation together into the model
-Problems encountered during design:
-1. The output of the model contains useless information which leads to redundancy of information, the solution is to use a fixed format to constrain the output of the model.
+Problems encountered during design:1. The output of the model contains useless information which leads to redundancy of information, the solution is to use a fixed format to constrain the output of the model.
 2treatment model usually outputs only one treatment plan, but the actual treatment information is diverse, the solution is to let the model list all the plans.
 “TREATMENT: list the patient's treatments prescripted by a doctor”
 In the end, two versions of Prompt were formed:
